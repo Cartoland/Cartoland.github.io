@@ -61,11 +61,11 @@ export default hopeTheme({
   },
 
   // enable it to preview all changes in time
-  // hotReload: true,
+  hotReload: true,
 
   plugins: {
     blog: {
-      filter: ({ frontmatter, filePathRelative, lang, path }: Page) =>
+      filter: ({ frontmatter, filePathRelative }: Page) =>
         !!(frontmatter.article ?? (!!filePathRelative && !frontmatter.home && !frontmatter.exceptBar)),
       excerptLength: 100,
     },
@@ -75,7 +75,7 @@ export default hopeTheme({
       defaultBehavior: "homepage",
       defaultLocale: "/en-us/",
       config: {
-        "/": "/en-us/",
+        // "/": "/en-us/",
       }
     },
 
