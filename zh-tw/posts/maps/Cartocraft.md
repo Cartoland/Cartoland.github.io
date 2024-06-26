@@ -45,11 +45,11 @@ banner: /maps/Cartocraft/cover.png
 每一關都可以感受到不同作者的帶來的「驚喜」(o゜▽゜)o☆  
 如果對地圖有任何感想，或者是遊玩之中有遇到什麼問題  
 都可以在此篇底下發文或留言詢問，互相交流~  
-同時，歡迎各位熱愛實況的人們，實況這張地圖( •̀ ω •́ )✧  
+同時，歡迎各位熱愛實況的人們，實況這張地圖( •̀ ω •́ )✧
 
-::: note
+:::note
 由於這是我們第一次進行多人地圖的製作，不是每一個作者都是最佳化高手；  
-所以這張地圖對電腦的配置較高，電腦不佳者請斟酌遊玩！！  
+所以這張地圖對電腦的配置較高，電腦不佳者請斟酌遊玩！！
 :::
 
 ## 【場景預覽】
@@ -86,7 +86,7 @@ banner: /maps/Cartocraft/cover.png
 
 [卡多蘭幻境 CartoCraft v1.4(地圖原址+載點)](https://www.mediafire.com/file/4w1k0nim8ce32ur/Cartocraft_卡多蘭幻境_正式版V1.4(地圖%2B材質).zip/file)  
 
-::: tip
+:::tip
 提醒：遊玩時若出現重大卡頓導致無法正常遊玩，可以先卸載第15區的資料包  
 指令：`/datapack disable "file/CartoCraft"`  
 遊玩至第15區（緋紅生變）時，再載回來即可。  
@@ -94,7 +94,7 @@ banner: /maps/Cartocraft/cover.png
 
 ## 【製作人員名單】
 
-::: details
+:::details
 - 區域1 - Brawing Mounds（土丘荒原）
   - GodChamber
 
