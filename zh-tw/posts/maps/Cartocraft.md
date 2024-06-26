@@ -95,60 +95,60 @@ banner: /maps/Cartocraft/cover.png
 ## 【製作人員名單】
 
 :::details
-- 區域1 - Brawing Mounds（土丘荒原）
+- ![][white-wool] 區域1 - Brawing Mounds（土丘荒原）
   - GodChamber
 
-- 區域2 - 紀念迷宮
+- ![][orange-wool] 區域2 - 紀念迷宮
   - 雪央 (bigfrog)
 
 - 安全區 - Monument（成就碑）
   - Hexakon (六葉)
 
-- 區域3 - 星月神殿
+- ![][magenta-wool] 區域3 - 星月神殿
   - DragonL
   - SakuraPotato
 
-- 區域4 - 仙境群島
+- ![][light-blue-wool] 區域4 - 仙境群島
   - 虛幻
 
-- 區域5 - 牛仔峽谷
+- ![][yellow-wool] 區域5 - 牛仔峽谷
   - 徐志摩
 
-- 區域6 - 廢棄中轉站
+- ![][lime-wool] 區域6 - 廢棄中轉站
   - 雨宮
 
-- 區域7 - 雲鎖地獄
+- ![][pink-wool] 區域7 - 雲鎖地獄
   - EdwinHK (亞雲)
 
-- 區域8 - 灰度工業
+- ![][gray-wool] 區域8 - 灰度工業
   - GalacticAC
 
-- 區域9 - 亡靈之墟
+- ![][light-gray-wool] 區域9 - 亡靈之墟
   - 狗勾 (WalkMan)
   - 遊戲亡
 
-- 區域10 - 殞落神界
+- ![][cyan-wool] 區域10 - 殞落神界
   - 米格 (MG) <Badge text="總召" type="tip" />
 
-- 區域11 - 暗神遺跡
+- ![][purple-wool] 區域11 - 暗神遺跡
   - 天道瑪奇
 
-- 區域12 - 指令方塊世界
+- ![][blue-wool] 區域12 - 指令方塊世界
   - 收音機
   - 村村
 
-- 區域13 - 怨恨圖書館
+- ![][brown-wool] 區域13 - 怨恨圖書館
   - 紙圓
 
-- 區域14 - 苦力怕教大教堂
+- ![][green-wool] 區域14 - 苦力怕教大教堂
   - ccJerrycc
 
-- 區域15 - 緋紅生變
+- ![][red-wool] 區域15 - 緋紅生變
   - Davleek天天
   - 信Faith  
   感謝Merak無償幫忙優化資料包~
 
-- 區域16 - 皮鳥部落
+- ![][black-wool] 區域16 - 皮鳥部落
   - 小冰鳥
   - Pikacnu
 :::
@@ -180,6 +180,26 @@ datapack disable "file/試作 - 獨立怪物技能資料包"
 
 <style>
   .text-red {
-    color: rgb(224, 108, 117)
+    color: rgb(224, 108, 117);
+  }
+  .details img {
+    width: 18px;
   }
 </style>
+
+[white-wool]: https://zh.minecraft.wiki/images/White_Wool_JE2_BE2.png
+[orange-wool]: https://zh.minecraft.wiki/images/Orange_Wool_JE3_BE3.png
+[magenta-wool]: https://zh.minecraft.wiki/images/Magenta_Wool_JE3_BE3.png
+[light-blue-wool]: https://zh.minecraft.wiki/images/Light_Blue_Wool_JE3_BE3.png
+[yellow-wool]: https://zh.minecraft.wiki/images/Yellow_Wool_JE3_BE3.png
+[Lime-wool]: https://zh.minecraft.wiki/images/Lime_Wool_JE3_BE3.png
+[pink-wool]: https://zh.minecraft.wiki/images/Pink_Wool_JE3_BE3.png
+[gray-wool]: https://zh.minecraft.wiki/images/Gray_Wool_JE3_BE3.png
+[light-gray-wool]: https://zh.minecraft.wiki/images/Light_Gray_Wool_JE3_BE3.png
+[cyan-wool]: https://zh.minecraft.wiki/images/Cyan_Wool_JE3_BE3.png
+[purple-wool]: https://zh.minecraft.wiki/images/Purple_Wool_JE3_BE3.png
+[blue-wool]: https://zh.minecraft.wiki/images/Blue_Wool_JE3_BE3.png
+[brown-wool]: https://zh.minecraft.wiki/images/Brown_Wool_JE3_BE3.png
+[green-wool]: https://zh.minecraft.wiki/images/Green_Wool_JE3_BE3.png
+[red-wool]: https://zh.minecraft.wiki/images/Red_Wool_JE3_BE3.png
+[black-wool]: https://zh.minecraft.wiki/images/Black_Wool_JE3_BE3.png
