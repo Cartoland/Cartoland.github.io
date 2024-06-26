@@ -10,14 +10,18 @@ tagline: A community focussed around Minecraft map making
 heroFullScreen: true
 projects:
   - icon: list-ol
-    name: Maps
+    name: Map
     link: "posts/maps/"
 
   - icon: list-ol
-    name: Resource Packs
+    name: Resource Pack
     link: "posts/resource-packs/"
 
   - icon: list-ol
-    name: Data Packs
+    name: Data Pack
     link: "posts/data-packs/"
+  
+  - icon: list-ol
+    name: Activity
+    link: "posts/activities/"
 ---

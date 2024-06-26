@@ -20,4 +20,8 @@ projects:
   - icon: list-ol
     name: 資料包
     link: "posts/data-packs/"
+  
+  - icon: list-ol
+    name: 活動
+    link: "posts/activities/"
 ---
