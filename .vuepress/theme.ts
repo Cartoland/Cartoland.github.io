@@ -8,12 +8,12 @@ export default hopeTheme({
   // hostname: "https://Cartoland.github.io/",
 
   iconAssets: "fontawesome-with-brands",
-  logo: "https://avatars.githubusercontent.com/u/116450397",
+  logo: "/logo.png",
   repo: "Cartoland/Cartoland.github.io",
   contributors: true,
   lastUpdated: true,
   darkmode: "enable",
-  favicon: "https://avatars.githubusercontent.com/u/116450397",
+  favicon: "/logo.png",
 
   locales: {
     "/zh-tw/": {
@@ -23,6 +23,7 @@ export default hopeTheme({
       author: {
         name: "Cartoland",
         url: "https://github.com/Cartoland",
+        email: "cartoland0101@gmail.com",
       },
 
       blog: {
@@ -32,7 +33,7 @@ export default hopeTheme({
           GitHub: "https://github.com/Cartoland/",
         },
         name: "Cartoland",
-        avatar: "https://avatars.githubusercontent.com/u/116450397",
+        avatar: "/logo.png",
       },
 
       metaLocales: {
@@ -46,6 +47,7 @@ export default hopeTheme({
       author: {
         name: "Cartoland",
         url: "https://github.com/Cartoland",
+        email: "cartoland0101@gmail.com",
       },
 
       blog: {
@@ -55,7 +57,7 @@ export default hopeTheme({
           GitHub: "https://github.com/Cartoland/",
         },
         name: "Cartoland",
-        avatar: "https://avatars.githubusercontent.com/u/116450397",
+        avatar: "/logo.png",
       },
     },
   },
@@ -65,9 +67,8 @@ export default hopeTheme({
 
   plugins: {
     blog: {
-      filter: ({ frontmatter, filePathRelative }: Page) =>
-        !!(frontmatter.article ?? (!!filePathRelative && !frontmatter.home)),
-      excerptLength: 100,
+      filter: ({ frontmatter, filePathRelative, path }: Page) =>
+        !!filePathRelative && !frontmatter.home && frontmatter.pageClass !== "hideInBlog",
     },
 
     redirect: {
@@ -76,7 +77,7 @@ export default hopeTheme({
       defaultLocale: "/en-us/",
       config: {
         "/": "/en-us/",
-      }
+      },
     },
 
     components: {
