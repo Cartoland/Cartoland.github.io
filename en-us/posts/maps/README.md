@@ -1,6 +1,6 @@
 ---
 title: Maps
-icon: book
+icon: list-ol
 ---
 
 # Table of Contents

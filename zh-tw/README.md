@@ -13,11 +13,11 @@ projects:
     name: 地圖
     link: "posts/maps/"
 
-  - icon: book
+  - icon: list-ol
     name: 資源包
     link: "posts/resource-packs/"
 
-  - icon: book
+  - icon: list-ol
     name: 資料包
     link: "posts/data-packs/"
 ---

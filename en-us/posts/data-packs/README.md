@@ -1,6 +1,6 @@
 ---
 title: Data Packs
-icon: book
+icon: list-ol
 ---
 
 # Table of Contents

@@ -13,11 +13,11 @@ projects:
     name: Maps
     link: "posts/maps/"
 
-  - icon: book
+  - icon: list-ol
     name: Resource Packs
     link: "posts/resource-packs/"
 
-  - icon: book
+  - icon: list-ol
     name: Data Packs
     link: "posts/data-packs/"
 ---
