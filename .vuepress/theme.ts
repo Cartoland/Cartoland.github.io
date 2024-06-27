@@ -61,8 +61,8 @@ export default hopeTheme({
       },
     },
       "/zh-cn/": {
-      navbar: zhtwNavbar,
-      sidebar: zhtwSidebar,
+      navbar: zhcnNavbar,
+      sidebar: zhcnSidebar,
 
       author: {
         name: "Cartoland",
