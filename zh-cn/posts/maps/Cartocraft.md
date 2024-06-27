@@ -85,7 +85,7 @@ banner: /maps/Cartocraft/cover.png
 ## 【地图载点】
 
 [卡多兰幻境 CartoCraft v1.4(地图原址+下载地址)](https://www.mediafire.com/file/4w1k0nim8ce32ur/Cartocraft_卡多兰幻境_正式版V1.4(地图%2B材质).zip/file)  
-[中国大陆玩家用下载地址，密码：kdlh（有条件还是点击上面的下载地址支持作者哈！）]（https://linlei.lanzn.com/b0hc2lbih）
+[中国大陆玩家用下载地址，密码：kdlh(有条件还是点击上面的下载地址支持作者哈！)](https://linlei.lanzn.com/b0hc2lbih)
 
 :::tip
 提醒：游玩时若出现重大卡顿导致无法正常游玩，可以先卸载第15区的数据包  
