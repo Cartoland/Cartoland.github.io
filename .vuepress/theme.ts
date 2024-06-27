@@ -27,7 +27,7 @@ export default hopeTheme({
       },
 
       blog: {
-        description: "一個圍繞 Minecraft 地圖製作的社區",
+        description: "一個圍繞 Minecraft 地圖製作的社群",
         medias: {
           Discord: "https://www.discord.com/invite/UMYxwHyRNE",
           GitHub: "https://github.com/Cartoland/",
@@ -51,7 +51,7 @@ export default hopeTheme({
       },
 
       blog: {
-        description: "A community focussed around Minecraft map making",
+        description: "A community focused on Minecraft map making",
         medias: {
           Discord: "https://www.discord.com/invite/UMYxwHyRNE",
           GitHub: "https://github.com/Cartoland/",
