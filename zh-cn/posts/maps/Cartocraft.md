@@ -82,7 +82,7 @@ banner: /maps/Cartocraft/cover.png
 估计游玩时间：`8 ~ 10 小时`  
 难度：`中等`  
 
-## 【地图载点】
+## 【地图下载地址】
 
 [卡多兰幻境 CartoCraft v1.4(地图原址+下载地址)](https://www.mediafire.com/file/4w1k0nim8ce32ur/Cartocraft_卡多兰幻境_正式版V1.4(地图%2B材质).zip/file)  
 [中国大陆玩家用下载地址，密码：kdlh(有条件还是点击上面的下载地址支持作者哈！)](https://linlei.lanzn.com/b0hc2lbih)
