@@ -14,7 +14,7 @@ projects:
     link: "posts/maps/"
 
   - icon: list-ol
-    name: 材质包
+    name: 资源包
     link: "posts/resource-packs/"
 
   - icon: list-ol
