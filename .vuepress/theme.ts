@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { Page } from "vuepress";
 
 import { enNavbar, zhtwNavbar, zhcnNavbar } from "./navbar/index.js";
-import { enSidebar, zhtwSidebar,zhcnSidebar} from "./sidebar/index.js";
+import { enSidebar, zhtwSidebar, zhcnSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   // hostname: "https://Cartoland.github.io/",
@@ -60,7 +60,7 @@ export default hopeTheme({
         avatar: "/logo.png",
       },
     },
-      "/zh-cn/": {
+    "/zh-cn/": {
       navbar: zhcnNavbar,
       sidebar: zhcnSidebar,
 
@@ -71,7 +71,7 @@ export default hopeTheme({
       },
 
       blog: {
-        description: "一个围绕 Minecraft 地图制作的社区",
+        description: "一个围绕 Minecraft 地图制作的社群",
         medias: {
           Discord: "https://www.discord.com/invite/UMYxwHyRNE",
           GitHub: "https://github.com/Cartoland/",

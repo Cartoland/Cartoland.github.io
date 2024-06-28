@@ -18,10 +18,10 @@ export default defineUserConfig({
       title: "Cartoland",
       description: "A community focused on Minecraft map making",
     },
-     "/zh-cn/": {
+    "/zh-cn/": {
       lang: "zh-CN",
       title: "Cartoland",
-      description: "一个围绕 Minecraft 地图制作的社区",
+      description: "一个围绕 Minecraft 地图制作的社群",
     },
   },
 
