@@ -1,8 +1,8 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { Page } from "vuepress";
 
-import { enNavbar, zhtwNavbar } from "./navbar/index.js";
-import { enSidebar, zhtwSidebar } from "./sidebar/index.js";
+import { enNavbar, zhtwNavbar, zhcnNavbar } from "./navbar/index.js";
+import { enSidebar, zhtwSidebar,zhcnSidebar} from "./sidebar/index.js";
 
 export default hopeTheme({
   // hostname: "https://Cartoland.github.io/",
@@ -58,6 +58,30 @@ export default hopeTheme({
         },
         name: "Cartoland",
         avatar: "/logo.png",
+      },
+    },
+      "/zh-cn/": {
+      navbar: zhcnNavbar,
+      sidebar: zhcnSidebar,
+
+      author: {
+        name: "Cartoland",
+        url: "https://github.com/Cartoland",
+        email: "cartoland0101@gmail.com",
+      },
+
+      blog: {
+        description: "一个围绕 Minecraft 地图制作的社区",
+        medias: {
+          Discord: "https://www.discord.com/invite/UMYxwHyRNE",
+          GitHub: "https://github.com/Cartoland/",
+        },
+        name: "Cartoland",
+        avatar: "/logo.png",
+      },
+
+      metaLocales: {
+        editLink: "在 GitHub 上编辑此页面",
       },
     },
   },
