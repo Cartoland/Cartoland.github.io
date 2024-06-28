@@ -39,7 +39,7 @@ banner: /maps/Cartocraft/cover.png
 
 ## 【前言】
 
-本地圖是由[MC地圖研製協會(CTLC)，又稱「創世聯邦」](https://discord.gg/UMYxwHyRNE)  
+本地圖是由 [MC地圖研製協會(CTLC)，又稱「創世聯邦」](https://discord.gg/UMYxwHyRNE)  
 總召「米格」結合十六位以上，涵蓋多個國家的作者合力製作的大型CTM地圖。  
 每個作者各個「身懷絕技」，將自身的絕活納入其中  
 每一關都可以感受到不同作者的帶來的「驚喜」(o゜▽゜)o☆  
@@ -94,15 +94,17 @@ banner: /maps/Cartocraft/cover.png
 
 ## 【製作人員名單】
 
+<div class="author">
+
 :::details
+- 安全區 - Monument（成就碑）
+  - Hexakon (六葉)
+  
 - ![][white-wool] 區域1 - Brawing Mounds（土丘荒原）
   - GodChamber
 
 - ![][orange-wool] 區域2 - 紀念迷宮
   - 雪央 (bigfrog)
-
-- 安全區 - Monument（成就碑）
-  - Hexakon (六葉)
 
 - ![][magenta-wool] 區域3 - 星月神殿
   - DragonL
@@ -152,6 +154,7 @@ banner: /maps/Cartocraft/cover.png
   - 小冰鳥
   - Pikacnu
 :::
+</div>
 
 ## 【更新日誌】
 
@@ -182,7 +185,7 @@ datapack disable "file/試作 - 獨立怪物技能資料包"
   .text-red {
     color: rgb(224, 108, 117);
   }
-  .details img {
+  .author > .details img {
     width: 18px;
   }
 </style>

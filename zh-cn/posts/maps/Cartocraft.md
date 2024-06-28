@@ -95,6 +95,8 @@ banner: /maps/Cartocraft/cover.png
 
 ## 【制作人员名单】
 
+<div class="author">
+
 :::details
 - ![][white-wool] 区域1 - Brawing Mounds（土丘荒原）
   - GodChamber
@@ -154,6 +156,8 @@ banner: /maps/Cartocraft/cover.png
   - Pikacnu
 :::
 
+</div>
+
 ## 【更新日志】
 
 ### 2024/6/1 v1.2
@@ -183,7 +187,7 @@ datapack disable "file/試作 - 獨立怪物技能資料包"
   .text-red {
     color: rgb(224, 108, 117);
   }
-  .details img {
+  .author > .details img {
     width: 18px;
   }
 </style>
