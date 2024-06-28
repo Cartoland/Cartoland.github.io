@@ -1,6 +1,6 @@
 ---
 author:
-  - 【死神】猫咪光 reaper_cat.k
+  - 【死神】貓咪光 reaper_cat.k
 isOriginal: true
 tags:
   - 1.20.4
@@ -17,7 +17,7 @@ banner: https://github.com/Cartoland/Christmas-Map-Jam-2023/blob/main/maps/%E6%B
 - 支持MC版本：`1.20.4`
 - 使用语言：`繁体中文`
 - 支持人数：`单人`
-- 地图作者：`【死神】猫咪光 reaper_cat.k`
+- 地图作者：`【死神】貓咪光 reaper_cat.k`
 
 ## 地图简介
 
