@@ -2,26 +2,26 @@
 author:
   - name: GodChamber
   - name: 雪央(bigfrog)
-  - name: Hexakon(六叶)
+  - name: Hexakon(六葉)
   - name: DragonL
   - name: SakuraPotato
-  - name: 虚幻
+  - name: 虛幻
   - name: 徐志摩
-  - name: 雨宫
-  - name: EdwinHK(亚云)
+  - name: 雨宮
+  - name: EdwinHK(亞雲)
   - name: GalacticAC
   - name: 狗勾(WalkMan)
-  - name: 游戏亡
+  - name: 遊戲亡
   - name: 米格(MG)
-  - name: 天道玛奇
-  - name: 收音机
+  - name: 天道瑪奇
+  - name: 收音機
   - name: 村村
-  - name: 纸圆
+  - name: 紙圓
   - name: ccJerrycc
   - name: Davleek天天
   - name: 信Faith
   - name: Merak
-  - name: 小冰鸟
+  - name: 小冰鳥
   - name: Pikacnu
 isOriginal: true
 tags:
@@ -40,7 +40,7 @@ banner: /maps/Cartocraft/cover.png
 ## 【前言】
 
 本地图是由[MC地图研制协会(CTLC)，又称「创世联邦」](https://discord.gg/UMYxwHyRNE)  
-总召「米格」结合十六位以上，涵盖多个国家的作者合力制作的大型CTM地图。  
+总召「米格」结合十六位以上，涵盖多个地区的作者合力制作的大型CTM地图。  
 每个作者各个「身怀绝技」，将自身的绝活纳入其中  
 每一关都可以感受到不同作者的带来的「惊喜」(o゜▽゜)o☆  
 如果对地图有任何感想，或者是游玩之中有遇到什么问题  
@@ -84,8 +84,8 @@ banner: /maps/Cartocraft/cover.png
 
 ## 【地图下载地址】
 
-[卡多兰幻境 CartoCraft v1.4(地图原址+下载地址)](https://www.mediafire.com/file/4w1k0nim8ce32ur/Cartocraft_卡多兰幻境_正式版V1.4(地图%2B材质).zip/file)  
-[中国大陆玩家用下载地址，密码：kdlh(有条件还是点击上面的下载地址支持作者哈！)](https://linlei.lanzn.com/b0hc2lbih)
+[卡多兰幻境 CartoCraft v1.4（地图原址＋下载地址）](https://www.mediafire.com/file/4w1k0nim8ce32ur/Cartocraft_卡多兰幻境_正式版V1.4(地图%2B材质).zip/file)  
+[中国大陆玩家备用下载地址，密码：`kdlh`（有条件还是点击上面的下载地址支持作者！）](https://linlei.lanzn.com/b0hc2lbih)
 
 :::tip
 提醒：游玩时若出现重大卡顿导致无法正常游玩，可以先卸载第15区的数据包  
@@ -98,14 +98,14 @@ banner: /maps/Cartocraft/cover.png
 <div class="author">
 
 :::details
+- 安全区 - Monument（成就碑）
+  - Hexakon (六葉)
+
 - ![][white-wool] 区域1 - Brawing Mounds（土丘荒原）
   - GodChamber
 
 - ![][orange-wool] 区域2 - 纪念迷宫
   - 雪央 (bigfrog)
-
-- 安全区 - Monument（成就碑）
-  - Hexakon (六叶)
 
 - ![][magenta-wool] 区域3 - 星月神殿
   - DragonL
@@ -121,23 +121,23 @@ banner: /maps/Cartocraft/cover.png
   - 雨宫
 
 - ![][pink-wool] 区域7 - 云锁地狱
-  - EdwinHK (亚云)
+  - EdwinHK (亞雲)
 
 - ![][gray-wool] 区域8 - 灰度工业
   - GalacticAC
 
 - ![][light-gray-wool] 区域9 - 亡灵之墟
   - 狗勾 (WalkMan)
-  - 游戏亡
+  - 遊戲亡
 
 - ![][cyan-wool] 区域10 - 殒落神界
   - 米格 (MG) <Badge text="总召" type="tip" />
 
 - ![][purple-wool] 区域11 - 暗神遗迹
-  - 天道玛奇
+  - 天道瑪奇
 
 - ![][blue-wool] 区域12 - 指令方块世界
-  - 收音机
+  - 收音機
   - 村村
 
 - ![][brown-wool] 区域13 - 怨恨图书馆
@@ -149,10 +149,10 @@ banner: /maps/Cartocraft/cover.png
 - ![][red-wool] 区域15 - 绯红生变
   - Davleek天天
   - 信Faith  
-  感谢Merak无偿帮忙优化资料包~
+  感谢 Merak 无偿帮忙优化资料包～
 
 - ![][black-wool] 区域16 - 皮鸟部落
-  - 小冰鸟
+  - 小冰鳥
   - Pikacnu
 :::
 
@@ -162,7 +162,7 @@ banner: /maps/Cartocraft/cover.png
 
 ### 2024/6/1 v1.2
 
-- 更新第15区绯红生变的数据包，改善性能问题
+- 更新第 15 区绯红生变的数据包，改善性能问题
 - 修正世界重生点出错的问题
 
 ### 2024/6/1 v1.3
@@ -176,9 +176,9 @@ banner: /maps/Cartocraft/cover.png
 - 修正浅灰区 Boss 在特定情况下会消失的问题
 - 微调部分箱子的物资
 
-如果觉得还是很卡，可以在完成第9区（浅灰色羊毛）后把以下两个数据包停掉：
+如果觉得还是很卡，可以在完成第 9 区（浅灰色羊毛）后把以下两个数据包停掉：
 
-```mcfunction
+```
 datapack disable "file/亡靈牛仔BOSS資料包 Undead Cowboy BOSS DP"
 datapack disable "file/試作 - 獨立怪物技能資料包"
 ```
