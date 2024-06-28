@@ -1,5 +1,5 @@
 ---
-title: 材质包
+title: 资源包
 icon: list-ol
 ---
 
