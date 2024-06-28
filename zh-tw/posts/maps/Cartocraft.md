@@ -40,7 +40,7 @@ banner: /maps/Cartocraft/cover.png
 ## 【前言】
 
 本地圖是由 [MC地圖研製協會(CTLC)，又稱「創世聯邦」](https://discord.gg/UMYxwHyRNE)  
-總召「米格」結合十六位以上，涵蓋多個國家的作者合力製作的大型CTM地圖。  
+總召「米格」結合十六位以上，涵蓋多個國家、地區的作者合力製作的大型CTM地圖。  
 每個作者各個「身懷絕技」，將自身的絕活納入其中  
 每一關都可以感受到不同作者的帶來的「驚喜」(o゜▽゜)o☆  
 如果對地圖有任何感想，或者是遊玩之中有遇到什麼問題  
@@ -148,7 +148,7 @@ banner: /maps/Cartocraft/cover.png
 - ![][red-wool] 區域15 - 緋紅生變
   - Davleek天天
   - 信Faith  
-  感謝Merak無償幫忙優化資料包~
+  感謝 Merak 無償幫忙優化資料包～
 
 - ![][black-wool] 區域16 - 皮鳥部落
   - 小冰鳥
@@ -160,7 +160,7 @@ banner: /maps/Cartocraft/cover.png
 
 ### 2024/6/1 v1.2
 
-- 更新第15區緋紅生變的資料包，改善效能問題
+- 更新第 15 區緋紅生變的資料包，改善效能問題
 - 修正世界重生點出錯的問題
 
 ### 2024/6/1 v1.3
@@ -174,9 +174,9 @@ banner: /maps/Cartocraft/cover.png
 - 修正淺灰區 Boss 在特定情況下會消失的問題
 - 微調部分箱子的物資
 
-如果覺得還是很卡，可以在完成第9區（淺灰色羊毛）後把以下兩個資料包停掉：
+如果覺得還是很卡，可以在完成第 9 區（淺灰色羊毛）後把以下兩個資料包停掉：
 
-```mcfunction
+```
 datapack disable "file/亡靈牛仔BOSS資料包 Undead Cowboy BOSS DP"
 datapack disable "file/試作 - 獨立怪物技能資料包"
 ```
