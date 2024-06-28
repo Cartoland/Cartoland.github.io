@@ -39,7 +39,7 @@ banner: /maps/Cartocraft/cover.png
 
 ## 【前言】
 
-本地图是由[MC地图研制协会(CTLC)，又称「创世联邦」](https://discord.gg/UMYxwHyRNE)  
+本地图是由 [MC地图研制协会(CTLC)，又称「创世联邦」](https://discord.gg/UMYxwHyRNE)  
 总召「米格」结合十六位以上，涵盖多个地区的作者合力制作的大型CTM地图。  
 每个作者各个「身怀绝技」，将自身的绝活纳入其中  
 每一关都可以感受到不同作者的带来的「惊喜」(o゜▽゜)o☆  
