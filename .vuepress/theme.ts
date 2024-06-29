@@ -1,8 +1,8 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { Page } from "vuepress";
 
-import { enNavbar, zhtwNavbar, zhcnNavbar } from "./navbar/index.js";
-import { enSidebar, zhtwSidebar, zhcnSidebar } from "./sidebar/index.js";
+import { enusNavbar, zhtwNavbar, zhcnNavbar } from "./navbar/index.js";
+import { enusSidebar, zhtwSidebar, zhcnSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   // hostname: "https://Cartoland.github.io/",
@@ -41,8 +41,8 @@ export default hopeTheme({
       },
     },
     "/en-us/": {
-      navbar: enNavbar,
-      sidebar: enSidebar,
+      navbar: enusNavbar,
+      sidebar: enusSidebar,
 
       author: {
         name: "Cartoland",
