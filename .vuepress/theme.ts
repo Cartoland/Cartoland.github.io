@@ -5,11 +5,9 @@ import { enusNavbar, zhtwNavbar, zhcnNavbar } from "./navbar/index.js";
 import { enusSidebar, zhtwSidebar, zhcnSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  // hostname: "https://Cartoland.github.io/",
-
   iconAssets: "fontawesome-with-brands",
   logo: "/logo.png",
-  repo: "Cartoland/Cartoland.github.io",
+  repo: "Cartoland/Cartoland",
   contributors: true,
   lastUpdated: true,
   darkmode: "enable",
