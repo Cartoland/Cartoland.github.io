@@ -38,4 +38,8 @@ export default defineUserConfig({
     ["meta", { property: "og:image:height", content: "256" }],
     ["meta", { property: "theme-color", content: "#83c765" }],
   ],
+
+  alias: {
+    "vue": "vue/dist/vue.esm-bundler.js",
+  }
 });

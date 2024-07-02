@@ -33,6 +33,7 @@ sticky: true
 star: 100
 cover: /maps/Cartocraft/banner.png
 banner: /maps/Cartocraft/cover.png
+date: 2024-06-28
 ---
 
 # Cartocraft 卡多兰幻境
@@ -90,121 +91,101 @@ banner: /maps/Cartocraft/cover.png
 :::tip
 提醒：游玩时若出现重大卡顿导致无法正常游玩，可以先卸载第15区的数据包  
 指令：`/datapack disable "file/CartoCraft"`  
-游玩至第15区（绯红生变）时，再加载回来即可。  
+游玩至 <wool color="red"/> 區域 15（绯红生变）时，再加载回来即可。  
 :::
 
 ## 【制作人员名单】
 
-<div class="author">
 
-:::details
 - 安全区 - Monument（成就碑）
   - Hexakon (六葉)
 
-- ![][white-wool] 区域1 - Brawing Mounds（土丘荒原）
+- <wool color="white"/> 区域 1 - Brawing Mounds（土丘荒原）
   - GodChamber
 
-- ![][orange-wool] 区域2 - 纪念迷宫
+- <wool color="orange"/> 区域 2 - 纪念迷宫
   - 雪央 (bigfrog)
 
-- ![][magenta-wool] 区域3 - 星月神殿
+- <wool color="magenta"/> 区域 3 - 星月神殿
   - DragonL
   - SakuraPotato
 
-- ![][light-blue-wool] 区域4 - 仙境群岛
+- <wool color="light-blue"/> 区域 4 - 仙境群岛
   - 虚幻
 
-- ![][yellow-wool] 区域5 - 牛仔峡谷
+- <wool color="yellow"/> 区域 5 - 牛仔峡谷
   - 徐志摩
 
-- ![][lime-wool] 区域6 - 废弃中转站
+- <wool color="lime"/> 区域 6 - 废弃中转站
   - 雨宫
 
-- ![][pink-wool] 区域7 - 云锁地狱
+- <wool color="pink"/> 区域 7 - 云锁地狱
   - EdwinHK (亞雲)
 
-- ![][gray-wool] 区域8 - 灰度工业
+- <wool color="gray"/> 区域 8 - 灰度工业
   - GalacticAC
 
-- ![][light-gray-wool] 区域9 - 亡灵之墟
+- <wool color="light-gray"/> 区域 9 - 亡灵之墟
   - 狗勾 (WalkMan)
   - 遊戲亡
 
-- ![][cyan-wool] 区域10 - 殒落神界
+- <wool color="cyan"/> 区域 10 - 殒落神界
   - 米格 (MG) <Badge text="总召" type="tip" />
 
-- ![][purple-wool] 区域11 - 暗神遗迹
+- <wool color="purple"/> 区域 11 - 暗神遗迹
   - 天道瑪奇
 
-- ![][blue-wool] 区域12 - 指令方块世界
+- <wool color="blue"/> 区域 12 - 指令方块世界
   - 收音機
   - 村村
 
-- ![][brown-wool] 区域13 - 怨恨图书馆
+- <wool color="brown"/> 区域 13 - 怨恨图书馆
   - 纸圆
 
-- ![][green-wool] 区域14 - 苦力怕教大教堂
+- <wool color="green"/> 区域 14 - 苦力怕教大教堂
   - ccJerrycc
 
-- ![][red-wool] 区域15 - 绯红生变
+- <wool color="red"/> 区域 15 - 绯红生变
   - Davleek天天
   - 信Faith  
   感谢 Merak 无偿帮忙优化资料包～
 
-- ![][black-wool] 区域16 - 皮鸟部落
+- <wool color="black"/> 区域 16 - 皮鸟部落
   - 小冰鳥
   - Pikacnu
-:::
-
-</div>
 
 ## 【更新日志】
 
 ### 2024/6/1 v1.2
 
-- 更新第 15 区绯红生变的数据包，改善性能问题
+- 更新 <wool color="red"/> 區域 15 绯红生变的数据包，改善性能问题
 - 修正世界重生点出错的问题
 
 ### 2024/6/1 v1.3
 
 - 加强修正地图性能问题
 - 在部分区域新增更多末影箱
-- 修正蓝色羊毛区造成数据包错误的问题
+- 修正 <wool color="blue"/> 區域 12 造成数据包错误的问题
 
 ### 2024/6/18 v1.4
 
-- 修正浅灰区 Boss 在特定情况下会消失的问题
+- 修正 <wool color="light-gray"/> 區域 9 Boss 在特定情况下会消失的问题
 - 微调部分箱子的物资
 
-如果觉得还是很卡，可以在完成第 9 区（浅灰色羊毛）后把以下两个数据包停掉：
+如果觉得还是很卡，可以在完成 <wool color="light-gray"/> 區域 9 后把以下两个数据包停掉：
 
-```
+```shell
 datapack disable "file/亡靈牛仔BOSS資料包 Undead Cowboy BOSS DP"
 datapack disable "file/試作 - 獨立怪物技能資料包"
 ```
+
+### 2024/6/28 v1.5：
+
+- 针对最终区域的高威胁怪物与生怪砖做适当调整，并修正已知的 BUG
+- 更新 <wool color="light-gray"/> 区域 9 的资料包
 
 <style>
   .text-red {
     color: rgb(224, 108, 117);
   }
-  .author > .details img {
-    width: 18px;
-  }
 </style>
-
-[white-wool]: https://zh.minecraft.wiki/images/White_Wool_JE2_BE2.png
-[orange-wool]: https://zh.minecraft.wiki/images/Orange_Wool_JE3_BE3.png
-[magenta-wool]: https://zh.minecraft.wiki/images/Magenta_Wool_JE3_BE3.png
-[light-blue-wool]: https://zh.minecraft.wiki/images/Light_Blue_Wool_JE3_BE3.png
-[yellow-wool]: https://zh.minecraft.wiki/images/Yellow_Wool_JE3_BE3.png
-[Lime-wool]: https://zh.minecraft.wiki/images/Lime_Wool_JE3_BE3.png
-[pink-wool]: https://zh.minecraft.wiki/images/Pink_Wool_JE3_BE3.png
-[gray-wool]: https://zh.minecraft.wiki/images/Gray_Wool_JE3_BE3.png
-[light-gray-wool]: https://zh.minecraft.wiki/images/Light_Gray_Wool_JE3_BE3.png
-[cyan-wool]: https://zh.minecraft.wiki/images/Cyan_Wool_JE3_BE3.png
-[purple-wool]: https://zh.minecraft.wiki/images/Purple_Wool_JE3_BE3.png
-[blue-wool]: https://zh.minecraft.wiki/images/Blue_Wool_JE3_BE3.png
-[brown-wool]: https://zh.minecraft.wiki/images/Brown_Wool_JE3_BE3.png
-[green-wool]: https://zh.minecraft.wiki/images/Green_Wool_JE3_BE3.png
-[red-wool]: https://zh.minecraft.wiki/images/Red_Wool_JE3_BE3.png
-[black-wool]: https://zh.minecraft.wiki/images/Black_Wool_JE3_BE3.png
